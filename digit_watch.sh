@@ -1,5 +1,7 @@
 #!/bin/bash
 
+Red = 'e\[1,31m'
+
 while true
 do
     clear
